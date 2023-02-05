@@ -6,10 +6,10 @@
     Repeat the above steps but try using a const variable. What happens?
 */
 
-let myVariable;
+var myVariable;
 myVariable = "Moo!";
 console.log(myVariable);
 
-const anotherVariable = "Moo!";
+var anotherVariable = "Moo!";
 // anotherVariable = "Moo!";
 console.log(anotherVariable);

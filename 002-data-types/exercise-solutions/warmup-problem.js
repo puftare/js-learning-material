@@ -14,11 +14,11 @@
    HINT2: Make sure your terminal is "looking at" the correct folder where your code is
 */
 
-const colour = "Blue";
-const age = 22;
-const happy = true;
-const emptyThing = null;
-const anotherEmptyThing = undefined;
+var colour = "Blue";
+var age = 22;
+var happy = true;
+var emptyThing = null;
+var anotherEmptyThing = undefined;
 
 console.log(colour);
 console.log(age);

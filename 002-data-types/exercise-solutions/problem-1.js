@@ -7,14 +7,14 @@
     After each of the above steps, log out the variable to the terminal with console.log.
 */
 
-let name = "Nader";
-console.log(name);
+var ime = "Nader";
+console.log(ime);
 
-name = "Linkin Park";
-console.log(name);
+ime = "Linkin Park";
+console.log(ime);
 
-name = true;
-console.log(name);
+ime = true;
+console.log(ime);
 
-name = 42;
-console.log(name);
+ime = 42;
+console.log(ime);
