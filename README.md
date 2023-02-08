@@ -9,3 +9,4 @@ Enjoy, and hope the course will help
 2. [002-data-types](https://github.com/puftare/js-learning-material/tree/master/002-data-types)
 3. [003-mathematical-operators](https://github.com/puftare/js-learning-material/tree/master/003-mathematical-operators)
 4. [004-boolean-operators](https://github.com/puftare/js-learning-material/tree/master/004-boolean-operators)
+5. [005-conditional-statements]
