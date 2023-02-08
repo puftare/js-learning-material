@@ -10,3 +10,4 @@ Enjoy, and hope the course will help
 3. [003-mathematical-operators](https://github.com/puftare/js-learning-material/tree/master/003-mathematical-operators)
 4. [004-boolean-operators](https://github.com/puftare/js-learning-material/tree/master/004-boolean-operators)
 5. [005-conditional-statements](https://github.com/puftare/js-learning-material/tree/master/005-conditional-statements)
+6. [006-for-loops](https://github.com/puftare/js-learning-material/tree/master/006-for-loops)
