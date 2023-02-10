@@ -36,5 +36,5 @@ var sad = false;
 // For now think of undefined as something you did not have a chance to name or declare its value
 // Where as null is something you defined to be of no value, therefore meaning, it has the value of nothing
 
-const empty = null;
-const empty2 = undefined;
+var empty = null;
+var empty2 = undefined;
