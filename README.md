@@ -12,3 +12,4 @@ Enjoy, and hope the course will help
 5. [005-conditional-statements](https://github.com/puftare/js-learning-material/tree/master/005-conditional-statements)
 6. [006-for-loops](https://github.com/puftare/js-learning-material/tree/master/006-for-loops)
 7. [007-while-loops](https://github.com/puftare/js-learning-material/tree/master/007-while-loops)
+8. [008-functions]()
