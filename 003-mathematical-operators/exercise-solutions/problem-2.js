@@ -7,7 +7,7 @@
     Question2: What would happen if you tried to do this with a const variable?
 */
 
-let points;
+var points;
 console.log(points);
 
 // const points;

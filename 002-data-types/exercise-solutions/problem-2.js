@@ -11,5 +11,5 @@ myVariable = "Moo!";
 console.log(myVariable);
 
 var anotherVariable = "Moo!";
-// anotherVariable = "Moo!";
+// anotherVariable = "Moo!!";
 console.log(anotherVariable);

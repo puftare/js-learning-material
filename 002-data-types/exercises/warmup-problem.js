@@ -1,5 +1,5 @@
 /* 
-   Create a constant variable of each of the following primitive types:
+   Create a variable of each of the following primitive types:
    - String
    - Number
    - Boolean

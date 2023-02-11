@@ -10,7 +10,7 @@
     HINT3: You don't have to provide all parts of the for loop construct
 */
 
-for (let loggedIn = false, i = 0; !loggedIn; i++) {
+for (var loggedIn = false, i = 0; !loggedIn; i++) {
   console.log("Incorrect login credentials");
 
   if (i === 2) {

@@ -1,4 +1,4 @@
-const fruit = true && "bananas";
+var fruit = true && "bananas";
 console.log(fruit);
 
 console.log(false && "oranges");

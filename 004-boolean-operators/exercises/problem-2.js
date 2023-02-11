@@ -1,10 +1,10 @@
 /*
     What would each of these variables evaluate to?
 
-    1. const one = true && "hi";
-    2. const two = false && "bye";
-    3. const three = true || "meow";
-    4. const four = false || "rawr";
+    1. var one = true && "hi";
+    2. var two = false && "bye";
+    3. var three = true || "meow";
+    4. var four = false || "rawr";
 
     Print them out to the console to see if you got them right.
 
