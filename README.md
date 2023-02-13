@@ -13,3 +13,4 @@ Enjoy, and hope the course will help
 6. [006-for-loops](https://github.com/puftare/js-learning-material/tree/master/006-for-loops)
 7. [007-while-loops](https://github.com/puftare/js-learning-material/tree/master/007-while-loops)
 8. [008-functions](https://github.com/puftare/js-learning-material/tree/master/008-functions)
+9. [009-arrays]()
