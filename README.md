@@ -17,3 +17,4 @@ Enjoy, and hope the course will help
 - [010-array-map](https://github.com/puftare/js-learning-material/tree/master/010-array-map)
 - [011-array-filter](https://github.com/puftare/js-learning-material/tree/master/011-array-filter)
 - [012-array-reduce](https://github.com/puftare/js-learning-material/tree/master/012-array-reduce)
+- [013-objects](https://github.com/puftare/js-learning-material/tree/master/013-objects)
