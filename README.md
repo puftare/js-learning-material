@@ -20,3 +20,4 @@ Enjoy, and hope the course will help
 - [013-objects](https://github.com/puftare/js-learning-material/tree/master/013-objects)
 - [014-maps](https://github.com/puftare/js-learning-material/tree/master/014-maps)
 - [015-sets](https://github.com/puftare/js-learning-material/tree/master/015-sets)
+- [016-for-of-loops]()
