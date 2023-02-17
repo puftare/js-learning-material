@@ -19,4 +19,4 @@ Enjoy, and hope the course will help
 - [012-array-reduce](https://github.com/puftare/js-learning-material/tree/master/012-array-reduce)
 - [013-objects](https://github.com/puftare/js-learning-material/tree/master/013-objects)
 - [014-maps](https://github.com/puftare/js-learning-material/tree/master/014-maps)
-- [015-sets]()
+- [015-sets](https://github.com/puftare/js-learning-material/tree/master/015-sets)
