@@ -24,3 +24,4 @@ Enjoy, and hope the course will help
 - [017-project-blackjack-game](https://github.com/puftare/js-learning-material/tree/master/017-Project-Blackjack-Game)
 - [018-promises](https://github.com/puftare/js-learning-material/tree/master/018-promises)
 - [019-error-handling](https://github.com/puftare/js-learning-material/tree/master/019-error-handling)
+- [020-async-await](https://github.com/puftare/js-learning-material/tree/master/020-async-await)
