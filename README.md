@@ -26,4 +26,4 @@ Enjoy, and hope the course will help
 - [019-error-handling](https://github.com/puftare/js-learning-material/tree/master/019-error-handling)
 - [020-async-await](https://github.com/puftare/js-learning-material/tree/master/020-async-await)
 - [021-array-object-spread-syntax](https://github.com/puftare/js-learning-material/tree/master/021-array-object-spread-syntax)
-- [022-destructuring-syntax]()
+- [022-destructuring-syntax](https://github.com/puftare/js-learning-material/tree/master/022-destructuring-syntax)
