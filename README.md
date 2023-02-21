@@ -25,4 +25,4 @@ Enjoy, and hope the course will help
 - [018-promises](https://github.com/puftare/js-learning-material/tree/master/018-promises)
 - [019-error-handling](https://github.com/puftare/js-learning-material/tree/master/019-error-handling)
 - [020-async-await](https://github.com/puftare/js-learning-material/tree/master/020-async-await)
-- [021-array-object-spread-syntax]()
+- [021-array-object-spread-syntax](https://github.com/puftare/js-learning-material/tree/master/021-array-object-spread-syntax)
