@@ -28,3 +28,4 @@ Enjoy, and hope the course will help
 - [021-array-object-spread-syntax](https://github.com/puftare/js-learning-material/tree/master/021-array-object-spread-syntax)
 - [022-destructuring-syntax](https://github.com/puftare/js-learning-material/tree/master/022-destructuring-syntax)
 - [023-ternary-operator](https://github.com/puftare/js-learning-material/tree/master/023-ternary-operator)
+- [024-switch-statement]()
