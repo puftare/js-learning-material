@@ -30,3 +30,4 @@ Enjoy, and hope the course will help
 - [023-ternary-operator](https://github.com/puftare/js-learning-material/tree/master/023-ternary-operator)
 - [024-switch-statement](https://github.com/puftare/js-learning-material/tree/master/024-switch-statement)
 - [025-generators](https://github.com/puftare/js-learning-material/tree/master/025-generators)
+- [026-async-generators]()
