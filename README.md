@@ -8,7 +8,7 @@ Enjoy, and hope the course will help
 <details open>
 <summary>Table of Contents</summary>
 
-<br>
+## <br>
 
 <ul>
 <li>[001-js-introduction](https://github.com/puftare/js-learning-material/tree/master/001-js-introduction)</li>
