@@ -5,6 +5,8 @@ Enjoy, and hope the course will help
 
 ## Work in Progress..
 
+<details>
+<summary>Javascript Learning</summary>
 - [001-js-introduction](https://github.com/puftare/js-learning-material/tree/master/001-js-introduction)
 - [002-data-types](https://github.com/puftare/js-learning-material/tree/master/002-data-types)
 - [003-mathematical-operators](https://github.com/puftare/js-learning-material/tree/master/003-mathematical-operators)
@@ -34,3 +36,4 @@ Enjoy, and hope the course will help
 - [027-symbols](https://github.com/puftare/js-learning-material/tree/master/027-symbols)
 - [028-regular-expressions](https://github.com/puftare/js-learning-material/tree/master/028-regular-expressions)
 - [029-modules](https://github.com/puftare/js-learning-material/tree/master/029-modules)
+</details>
