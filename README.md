@@ -6,9 +6,10 @@ Enjoy, and hope the course will help
 ## Work in Progress..
 
 <details open>
+
 <summary>Table of Contents</summary>
 
-## <br>
+<br>
 
 <ul>
 <li>[a link](https://github.com/puftare/js-learning-material/tree/master/001-js-introduction)</li>
