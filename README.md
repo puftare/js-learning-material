@@ -5,15 +5,19 @@ Enjoy, and hope the course will help
 
 ## Work in Progress..
 
-<details open>
+<details>
 
 <summary>Table of Contents</summary>
 
 <br>
 
 <ul>
-<li>[a link](https://github.com/puftare/js-learning-material/tree/master/001-js-introduction)</li>
-<li>[002-data-types](https://github.com/puftare/js-learning-material/tree/master/002-data-types)</li>
+<li>
+[001-js-introduction](https://github.com/puftare/js-learning-material/tree/master/001-js-introduction)
+</li>
+<li>
+[002-data-types](https://github.com/puftare/js-learning-material/tree/master/002-data-types)
+</li>
 </ul>
 
 [003-mathematical-operators](https://github.com/puftare/js-learning-material/tree/master/003-mathematical-operators)
