@@ -46,3 +46,23 @@ Enjoy, and hope the course will help
 - [x] [029-modules](https://github.com/puftare/js-learning-material/tree/master/029-modules)
 
 </details>
+
+<details>
+
+<summary>
+
+## ALGORITHMS &ensp;&ensp;
+
+</summary>
+
+</details>
+
+<details>
+
+<summary>
+
+## CONTACT ME &ensp;&ensp;
+
+</summary>
+
+</details>
