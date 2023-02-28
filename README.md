@@ -6,17 +6,17 @@ Enjoy, and hope the course will help
 ## Work in Progress..
 
 <details>
-<summary>Javascript Learning</summary>
-[001-js-introduction](https://github.com/puftare/js-learning-material/tree/master/001-js-introduction)
-[002-data-types](https://github.com/puftare/js-learning-material/tree/master/002-data-types)
-[003-mathematical-operators](https://github.com/puftare/js-learning-material/tree/master/003-mathematical-operators)
-[004-boolean-operators](https://github.com/puftare/js-learning-material/tree/master/004-boolean-operators)
-[005-conditional-statements](https://github.com/puftare/js-learning-material/tree/master/005-conditional-statements)
-[006-for-loops](https://github.com/puftare/js-learning-material/tree/master/006-for-loops)
-[007-while-loops](https://github.com/puftare/js-learning-material/tree/master/007-while-loops)
-[008-functions](https://github.com/puftare/js-learning-material/tree/master/008-functions)
-[009-arrays](https://github.com/puftare/js-learning-material/tree/master/009-arrays)
-[010-array-map](https://github.com/puftare/js-learning-material/tree/master/010-array-map)
+<summary>Table of Contents</summary>
+1. [001-js-introduction](https://github.com/puftare/js-learning-material/tree/master/001-js-introduction)
+2. [002-data-types](https://github.com/puftare/js-learning-material/tree/master/002-data-types)
+3. [003-mathematical-operators](https://github.com/puftare/js-learning-material/tree/master/003-mathematical-operators)
+4. [004-boolean-operators](https://github.com/puftare/js-learning-material/tree/master/004-boolean-operators)
+5. [005-conditional-statements](https://github.com/puftare/js-learning-material/tree/master/005-conditional-statements)
+6. [006-for-loops](https://github.com/puftare/js-learning-material/tree/master/006-for-loops)
+7. [007-while-loops](https://github.com/puftare/js-learning-material/tree/master/007-while-loops)
+8. [008-functions](https://github.com/puftare/js-learning-material/tree/master/008-functions)
+9. [009-arrays](https://github.com/puftare/js-learning-material/tree/master/009-arrays)
+10. [010-array-map](https://github.com/puftare/js-learning-material/tree/master/010-array-map)
 [011-array-filter](https://github.com/puftare/js-learning-material/tree/master/011-array-filter)
 [012-array-reduce](https://github.com/puftare/js-learning-material/tree/master/012-array-reduce)
 [013-objects](https://github.com/puftare/js-learning-material/tree/master/013-objects)
