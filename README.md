@@ -33,4 +33,4 @@ Enjoy, and hope the course will help
 - [026-async-generators](https://github.com/puftare/js-learning-material/tree/master/026-async-generators)
 - [027-symbols](https://github.com/puftare/js-learning-material/tree/master/027-symbols)
 - [028-regular-expressions](https://github.com/puftare/js-learning-material/tree/master/028-regular-expressions)
-- [029-modules]()
+- [029-modules](https://github.com/puftare/js-learning-material/tree/master/029-modules)
