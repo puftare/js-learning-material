@@ -11,7 +11,7 @@ Enjoy, and hope the course will help
 ## <br>
 
 <ul>
-<li>[001-js-introduction](https://github.com/puftare/js-learning-material/tree/master/001-js-introduction)</li>
+<li>[a link](https://github.com/puftare/js-learning-material/tree/master/001-js-introduction)</li>
 <li>[002-data-types](https://github.com/puftare/js-learning-material/tree/master/002-data-types)</li>
 </ul>
 
