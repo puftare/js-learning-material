@@ -7,7 +7,7 @@ Enjoy, and hope the course will help
 
 <details>
 
-<summary>Table of Contents</summary>
+<summary>TABLE OF CONTENTS</summary>
 
 <br>
 
