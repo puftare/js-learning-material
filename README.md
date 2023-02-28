@@ -8,7 +8,9 @@ Enjoy, and hope the course will help
 <details>
 
 <summary>
-## TABLE OF CONTENTS  &ensp;&ensp;
+
+## TOC &ensp;&ensp;
+
 </summary>
 
 <br>
