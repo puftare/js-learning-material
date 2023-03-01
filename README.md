@@ -54,6 +54,7 @@ Enjoy, and hope the course will help
 - [x] [027-symbols](https://github.com/puftare/js-learning-material/tree/master/javascript-learning/027-symbols)
 - [x] [028-regular-expressions](https://github.com/puftare/js-learning-material/tree/master/javascript-learning/028-regular-expressions)
 - [x] [029-modules](https://github.com/puftare/js-learning-material/tree/master/javascript-learning/029-modules)
+- [x] [030-npm](https://github.com/puftare/js-learning-material/tree/master/javascript-learning/030-npm)
 
 </details>
 
