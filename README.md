@@ -15,6 +15,16 @@ Enjoy, and hope the course will help
 
 <br>
 
+<details>
+
+<summary>
+
+## JAVASCRIPT-LEARNING &ensp;&ensp;
+
+</summary>
+
+<br>
+
 - [x] [001-js-introduction](https://github.com/puftare/js-learning-material/tree/master/javascript-learning/001-js-introduction)
 - [x] [002-data-types](https://github.com/puftare/js-learning-material/tree/master/javascript-learning/002-data-types)
 - [x] [003-mathematical-operators](https://github.com/puftare/js-learning-material/tree/master/javascript-learning/003-mathematical-operators)
@@ -54,6 +64,8 @@ Enjoy, and hope the course will help
 ## ALGORITHMS &ensp;&ensp;
 
 </summary>
+
+</details>
 
 </details>
 
