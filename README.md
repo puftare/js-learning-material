@@ -55,6 +55,7 @@ Enjoy, and hope the course will help
 - [x] [028-regular-expressions](https://github.com/puftare/js-learning-material/tree/master/javascript-learning/028-regular-expressions)
 - [x] [029-modules](https://github.com/puftare/js-learning-material/tree/master/javascript-learning/029-modules)
 - [x] [030-npm](https://github.com/puftare/js-learning-material/tree/master/javascript-learning/030-npm)
+- [x] [031-fetch-api](https://github.com/puftare/js-learning-material/tree/master/javascript-learning/031-fetch-api)
 
 </details>
 
