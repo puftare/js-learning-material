@@ -1,7 +1,8 @@
 # js-learning-material
 
-This is an in depth javascript course, it is in progress of creation, any advice is highly appreciated!
-Enjoy, and hope the course will help
+This GitHub repository contains a collection of JavaScript applications, algorithms, and data structures for anyone looking to improve their skills in computer science. Whether you're a beginner or an experienced developer, this series provides a comprehensive guide to learning essential concepts and techniques in JavaScript programming.
+
+The repository includes various algorithm and data structure implementations such as linked lists, stacks, queues, sorting algorithms, search algorithms, and more. Each section contains detailed explanations and code examples, making it easy to understand and apply the concepts covered.
 
 ## Work in Progress..
 
