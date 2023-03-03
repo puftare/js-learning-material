@@ -1,0 +1,16 @@
+export const bail = false;
+export const verbose = false;
+export const collectCoverage = false;
+export const coverageDirectory = './coverage/';
+export const testPathIgnorePatterns = ['<rootDir>/node_modules/'];
+export const coveragePathIgnorePatterns = ['<rootDir>/node_modules/'];
+export const testRegex = '(/__tests__/.*|(\\.|/)(test|spec))\\.jsx?$';
+export const testURL = 'http://localhost/';
+export const coverageThreshold = {
+  global: {
+    statements: 100,
+    branches: 95,
+    functions: 100,
+    lines: 100,
+  },
+};
