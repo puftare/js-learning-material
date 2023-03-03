@@ -26,6 +26,9 @@ Enjoy, and hope the course will help
 <br>
 
 - [x] [001-js-introduction](https://github.com/puftare/js-learning-material/tree/master/javascript-learning/001-js-introduction)
+  - [E] [examples](https://github.com/puftare/js-learning-material/tree/master/javascript-learning/002-data-types/examples)
+  - [S] [solutions](https://github.com/puftare/js-learning-material/tree/master/javascript-learning/002-data-types/exercise-solutions)
+  - [EXER] [exercise](https://github.com/puftare/js-learning-material/tree/master/javascript-learning/002-data-types/exercises)
 - [x] [002-data-types](https://github.com/puftare/js-learning-material/tree/master/javascript-learning/002-data-types)
 - [x] [003-mathematical-operators](https://github.com/puftare/js-learning-material/tree/master/javascript-learning/003-mathematical-operators)
 - [x] [004-boolean-operators](https://github.com/puftare/js-learning-material/tree/master/javascript-learning/004-boolean-operators)
