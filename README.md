@@ -27,11 +27,14 @@ The repository includes various algorithm and data structure implementations suc
 <br>
 
 - [x] [001-js-introduction](https://github.com/puftare/js-learning-material/tree/master/javascript-learning/001-js-introduction)
+- [x] [002-data-types](https://github.com/puftare/js-learning-material/tree/master/javascript-learning/002-data-types)
   - [`E`] [examples](https://github.com/puftare/js-learning-material/tree/master/javascript-learning/002-data-types/examples)
   - [`S`] [solutions](https://github.com/puftare/js-learning-material/tree/master/javascript-learning/002-data-types/exercise-solutions)
   - [`EXER`] [exercise](https://github.com/puftare/js-learning-material/tree/master/javascript-learning/002-data-types/exercises)
-- [x] [002-data-types](https://github.com/puftare/js-learning-material/tree/master/javascript-learning/002-data-types)
 - [x] [003-mathematical-operators](https://github.com/puftare/js-learning-material/tree/master/javascript-learning/003-mathematical-operators)
+  - [`E`] [examples](https://github.com/puftare/js-learning-material/tree/master/javascript-learning/003-mathematical-operators/examples)
+  - [`S`] [solutions](https://github.com/puftare/js-learning-material/tree/master/javascript-learning/003-mathematical-operators/exercise-solutions)
+  - [`EXER`] [exercise](https://github.com/puftare/js-learning-material/tree/master/javascript-learning/003-mathematical-operators/exercises)
 - [x] [004-boolean-operators](https://github.com/puftare/js-learning-material/tree/master/javascript-learning/004-boolean-operators)
 - [x] [005-conditional-statements](https://github.com/puftare/js-learning-material/tree/master/javascript-learning/005-conditional-statements)
 - [x] [006-for-loops](https://github.com/puftare/js-learning-material/tree/master/javascript-learning/006-for-loops)
