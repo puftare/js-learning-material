@@ -67,6 +67,15 @@ Enjoy, and hope the course will help
 
 </summary>
 
+<br>
+
+- [x] [cryptography](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/cryptography)
+  - [x] [caesar-cipher](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/cryptography/caesar-cipher)
+  - [x] [hill-cipher](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/cryptography/hill-cipher)
+  - [x] [polynomial-hash](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/cryptography/polynomial-hash)
+  - [x] [rail-fence-cipher](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/cryptography/rail-fence-cipher)
+- [x] [math](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/math)
+
 </details>
 
 </details>
