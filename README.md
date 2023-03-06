@@ -87,7 +87,7 @@ The repository includes various algorithm and data structure implementations suc
   - [`E`] [examples](https://github.com/puftare/js-learning-material/tree/master/javascript-learning/016-for-of-loops/examples)
   - [`S`] [solutions](https://github.com/puftare/js-learning-material/tree/master/javascript-learning/016-for-of-loops/exercise-solutions)
   - [`EXER`] [exercise](https://github.com/puftare/js-learning-material/tree/master/javascript-learning/016-for-of-loops/exercises)
-- [x] [017-project-blackjack-game](https://github.com/puftare/js-learning-material/tree/master/javascript-learning/017-Project-Blackjack-Game)
+- [x] [017-project-blackjack-game](https://github.com/puftare/js-learning-material/tree/master/javascript-learning/017-project-blackjack-game)
 - [x] [018-promises](https://github.com/puftare/js-learning-material/tree/master/javascript-learning/018-promises)
   - [`E`] [examples](https://github.com/puftare/js-learning-material/tree/master/javascript-learning/018-promises/examples)
   - [`S`] [solutions](https://github.com/puftare/js-learning-material/tree/master/javascript-learning/018-promises/exercise-solutions)
