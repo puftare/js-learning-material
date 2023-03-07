@@ -145,6 +145,10 @@ The repository includes various algorithm and data structure implementations suc
   - [`S`] [solutions](https://github.com/puftare/js-learning-material/tree/master/javascript-learning/031-fetch-api/exercise-solutions)
   - [`EXER`] [exercise](https://github.com/puftare/js-learning-material/tree/master/javascript-learning/031-fetch-api/exercises)
 - [x] [032-project-pokemon-downloader-CLI](https://github.com/puftare/js-learning-material/tree/master/javascript-learning/032-project-pokemon-downloader-CLI)
+- [x] [033-recursion](https://github.com/puftare/js-learning-material/tree/master/javascript-learning/033-recursion)
+  - [`E`] [examples](https://github.com/puftare/js-learning-material/tree/master/javascript-learning/033-recursion/examples)
+  - [`S`] [solutions](https://github.com/puftare/js-learning-material/tree/master/javascript-learning/033-recursion/exercise-solutions)
+  - [`EXER`] [exercise](https://github.com/puftare/js-learning-material/tree/master/javascript-learning/033-recursion/exercises)
 
 </details>
 

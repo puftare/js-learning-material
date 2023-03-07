@@ -14,5 +14,7 @@ const sum = (array, index) => {
 };
 
 const result = sum(nums, 0);
+const result2 = sum(nums, 1);
 
 console.log(result);
+console.log(result2);
