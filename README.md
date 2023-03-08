@@ -149,6 +149,10 @@ The repository includes various algorithm and data structure implementations suc
   - [`E`] [examples](https://github.com/puftare/js-learning-material/tree/master/javascript-learning/033-recursion/examples)
   - [`S`] [solutions](https://github.com/puftare/js-learning-material/tree/master/javascript-learning/033-recursion/exercise-solutions)
   - [`EXER`] [exercise](https://github.com/puftare/js-learning-material/tree/master/javascript-learning/033-recursion/exercises)
+- [x] [034-closure](https://github.com/puftare/js-learning-material/tree/master/javascript-learning/034-closure)
+  - [`E`] [examples](https://github.com/puftare/js-learning-material/tree/master/javascript-learning/034-closure/examples)
+  - [`S`] [solutions](https://github.com/puftare/js-learning-material/tree/master/javascript-learning/034-closure/exercise-solutions)
+  - [`EXER`] [exercise](https://github.com/puftare/js-learning-material/tree/master/javascript-learning/034-closure/exercises)
 
 </details>
 
