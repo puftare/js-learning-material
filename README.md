@@ -161,6 +161,10 @@ The repository includes various algorithm and data structure implementations suc
   - [`E`] [examples](https://github.com/puftare/js-learning-material/tree/master/javascript-learning/036-this-keyword/examples)
   - [`S`] [solutions](https://github.com/puftare/js-learning-material/tree/master/javascript-learning/036-this-keyword/exercise-solutions)
   - [`EXER`] [exercise](https://github.com/puftare/js-learning-material/tree/master/javascript-learning/036-this-keyword/exercises)
+- [x] [037-classes-oop-intro](https://github.com/puftare/js-learning-material/tree/master/javascript-learning/037-classes-oop-intro)
+  - [`E`] [examples](https://github.com/puftare/js-learning-material/tree/master/javascript-learning/037-classes-oop-intro/examples)
+  - [`S`] [solutions](https://github.com/puftare/js-learning-material/tree/master/javascript-learning/037-classes-oop-intro/exercise-solutions)
+  - [`EXER`] [exercise](https://github.com/puftare/js-learning-material/tree/master/javascript-learning/037-classes-oop-intro/exercises)
 
 </details>
 
