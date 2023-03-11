@@ -189,6 +189,7 @@ The repository includes various algorithm and data structure implementations suc
   - [x] [rail-fence-cipher](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/cryptography/rail-fence-cipher)
 - [x] [math](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/math)
   - [x] [matrix](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/math/matrix)
+  - [x] [binary-floating-point](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/math/binary-floating-point)
 
 </details>
 
