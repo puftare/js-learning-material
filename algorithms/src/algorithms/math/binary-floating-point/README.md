@@ -43,7 +43,6 @@ The IEEE 754 standard describes the way (the framework) of using those 16 bits (
 
 To get the idea behind the standard we might recall the [scientific notation](https://en.wikipedia.org/wiki/Scientific_notation) - a way of expressing numbers that are too large or too small (usually would result in a long string of digits) to be conveniently written in decimal form.
 
-
 As you may see from the image, the number representation might be split into three parts:
 
 - **sign**
@@ -73,8 +72,6 @@ k - number of exponent bits
 ```
 
 I've tried to describe the logic behind the converting of floating-point numbers from a binary format back to the decimal format on the image below. Hopefully, it will give you a better understanding of how the IEEE 754 standard works. The 16-bits number is being used here for simplicity, but the same approach works for 32-bits and 64-bits numbers as well.
-
-> Checkout the [interactive version of this diagram](https://trekhleb.dev/blog/2021/binary-floating-point/) to play around with setting bits on and off, and seeing how it would influence the final result
 
 Here is the number ranges that different floating-point formats support:
 
