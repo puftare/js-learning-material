@@ -169,6 +169,10 @@ The repository includes various algorithm and data structure implementations suc
   - [`E`] [examples](https://github.com/puftare/js-learning-material/tree/master/javascript-learning/038-classes-oop-inheritance-polymorphism/examples)
   - [`S`] [solutions](https://github.com/puftare/js-learning-material/tree/master/javascript-learning/038-classes-oop-inheritance-polymorphism/exercise-solutions)
   - [`EXER`] [exercise](https://github.com/puftare/js-learning-material/tree/master/javascript-learning/038-classes-oop-inheritance-polymorphism/exercises)
+- [x] [039-encapsulation-static](https://github.com/puftare/js-learning-material/tree/master/javascript-learning/039-encapsulation-static)
+  - [`E`] [examples](https://github.com/puftare/js-learning-material/tree/master/javascript-learning/039-encapsulation-static/examples)
+  - [`S`] [solutions](https://github.com/puftare/js-learning-material/tree/master/javascript-learning/039-encapsulation-static/exercise-solutions)
+  - [`EXER`] [exercise](https://github.com/puftare/js-learning-material/tree/master/javascript-learning/039-encapsulation-static/exercises)
 
 </details>
 
