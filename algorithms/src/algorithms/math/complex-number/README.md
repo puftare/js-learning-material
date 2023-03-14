@@ -65,15 +65,11 @@ position of a point on the plane. Recovering the original rectangular
 co-ordinates from the polar form is done by the formula called trigonometric
 form:
 
-```
 ![Polar Form](https://wikimedia.org/api/rest_v1/media/math/render/svg/b03de1e1b7b049880b5e4870b68a57bc180ff6ce)
-```
 
 Using Euler's formula this can be written as:
 
-```
 ![Euler's Form](https://wikimedia.org/api/rest_v1/media/math/render/svg/0a087c772212e7375cb321d83fc1fcc715cd0ed2)
-```
 
 ## Basic Operations
 
