@@ -194,6 +194,7 @@ The repository includes various algorithm and data structure implementations suc
 - [x] [math](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/math)
   - [x] [matrix](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/math/matrix)
   - [x] [binary-floating-point](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/math/binary-floating-point)
+  - [x] [bits](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/math/bits)
 
 </details>
 
