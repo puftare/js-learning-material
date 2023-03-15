@@ -198,6 +198,7 @@ The repository includes various algorithm and data structure implementations suc
   - [x] [complex-number](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/math/complex-number)
   - [x] [radian](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/math/radian)
   - [x] [euclidean-algorithm](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/math/euclidean-algorithm)
+  - [x] [euclidean-distance](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/math/euclidean-distance)
 
 </details>
 
