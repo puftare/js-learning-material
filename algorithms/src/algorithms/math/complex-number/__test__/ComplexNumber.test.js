@@ -130,28 +130,28 @@ describe('ComplexNumber', () => {
   it('should return complex number in polar form', () => {
     const complexNumber1 = new ComplexNumber({ re: 3, im: 3 });
     expect(complexNumber1.getPolarForm().radius).toBe(
-      Math.sqrt(3 ** 2 + 3 ** 2)
+      Math.sqrt(3 ** 2 + 3 ** 2),
     );
     expect(complexNumber1.getPolarForm().phase).toBe(Math.PI / 4);
     expect(complexNumber1.getPolarForm(false).phase).toBe(45);
 
     const complexNumber2 = new ComplexNumber({ re: -3, im: 3 });
     expect(complexNumber2.getPolarForm().radius).toBe(
-      Math.sqrt(3 ** 2 + 3 ** 2)
+      Math.sqrt(3 ** 2 + 3 ** 2),
     );
     expect(complexNumber2.getPolarForm().phase).toBe(3 * (Math.PI / 4));
     expect(complexNumber2.getPolarForm(false).phase).toBe(135);
 
     const complexNumber3 = new ComplexNumber({ re: -3, im: -3 });
     expect(complexNumber3.getPolarForm().radius).toBe(
-      Math.sqrt(3 ** 2 + 3 ** 2)
+      Math.sqrt(3 ** 2 + 3 ** 2),
     );
     expect(complexNumber3.getPolarForm().phase).toBe(-3 * (Math.PI / 4));
     expect(complexNumber3.getPolarForm(false).phase).toBe(-135);
 
     const complexNumber4 = new ComplexNumber({ re: 3, im: -3 });
     expect(complexNumber4.getPolarForm().radius).toBe(
-      Math.sqrt(3 ** 2 + 3 ** 2)
+      Math.sqrt(3 ** 2 + 3 ** 2),
     );
     expect(complexNumber4.getPolarForm().phase).toBe(-1 * (Math.PI / 4));
     expect(complexNumber4.getPolarForm(false).phase).toBe(-45);
