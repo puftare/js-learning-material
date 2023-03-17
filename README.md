@@ -201,6 +201,7 @@ The repository includes various algorithm and data structure implementations suc
   - [x] [euclidean-distance](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/math/euclidean-distance)
   - [x] [factorial](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/math/factorial)
   - [x] [fast-powering](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/math/fast-powering)
+  - [x] [fibonacci](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/math/fibonacci)
 
 </details>
 
