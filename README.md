@@ -203,6 +203,7 @@ The repository includes various algorithm and data structure implementations suc
   - [x] [fast-powering](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/math/fast-powering)
   - [x] [fibonacci](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/math/fibonacci)
   - [x] [fourier-transform](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/math/fourier-transform)
+  - [x] [horner-method](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/math/horner-method)
 
 </details>
 
