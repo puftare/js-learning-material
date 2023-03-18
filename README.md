@@ -189,7 +189,7 @@ The repository includes various algorithm and data structure implementations suc
   - [x] [js-pong](https://github.com/puftare/js-learning-material/tree/master/fun-with-js/jQuerry/js-pong)
   - [x] [browser-in-browser](https://github.com/puftare/js-learning-material/tree/master/fun-with-js/jQuerry/browserBrowser)
 - [x] [js](https://github.com/puftare/js-learning-material/tree/master/fun-with-js/js)
-  - [x] [js-minesweeper](https://github.com/puftare/js-learning-material/tree/master/fun-with-js/js/questions.js)
+  - [x] [js-questions](https://github.com/puftare/js-learning-material/tree/master/fun-with-js/js/questions.js)
   </summary>
 
 </details>
