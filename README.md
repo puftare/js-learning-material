@@ -204,6 +204,7 @@ The repository includes various algorithm and data structure implementations suc
   - [x] [fibonacci](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/math/fibonacci)
   - [x] [fourier-transform](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/math/fourier-transform)
   - [x] [horner-method](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/math/horner-method)
+  - [x] [integer-partition](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/math/integer-partition)
 
 </details>
 
