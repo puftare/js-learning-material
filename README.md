@@ -206,6 +206,7 @@ The repository includes various algorithm and data structure implementations suc
   - [x] [horner-method](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/math/horner-method)
   - [x] [integer-partition](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/math/integer-partition)
   - [x] [is-power-of-two](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/math/is-power-of-two)
+  - [x] [square-root](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/math/square-root)
 
 </details>
 
