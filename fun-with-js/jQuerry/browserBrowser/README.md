@@ -19,7 +19,7 @@ The Windows-DarkMode-Delay folder makes use of jQuery's fadeIn() function to add
 
 # Demo
 
-![Demo](https://github.com/puftare/)
+![Demo](https://github.com/puftare/js-learning-material/blob/master/fun-with-js/jQuerry/browserBrowser/demo.gif)
 
 # Detecting Color Preference
 
