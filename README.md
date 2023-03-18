@@ -10,16 +10,6 @@ The repository includes various algorithm and data structure implementations suc
 
 <summary>
 
-## TOC &ensp;&ensp;
-
-</summary>
-
-<br>
-
-<details>
-
-<summary>
-
 ## JAVASCRIPT-LEARNING &ensp;&ensp;
 
 </summary>
@@ -236,7 +226,5 @@ The repository includes various algorithm and data structure implementations suc
 ## CONTACT ME &ensp;&ensp;
 
 </summary>
-
-</details>
 
 </details>
