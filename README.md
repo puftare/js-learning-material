@@ -190,7 +190,8 @@ The repository includes various algorithm and data structure implementations suc
   - [x] [browser-in-browser](https://github.com/puftare/js-learning-material/tree/master/fun-with-js/jQuerry/browserBrowser)
 - [x] [js](https://github.com/puftare/js-learning-material/tree/master/fun-with-js/js)
   - [x] [js-questions](https://github.com/puftare/js-learning-material/tree/master/fun-with-js/js/questions.js)
-  </summary>
+
+</summary>
 
 </details>
 
