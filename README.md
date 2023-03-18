@@ -231,8 +231,6 @@ The repository includes various algorithm and data structure implementations suc
 
 </details>
 
-</details>
-
 <details>
 
 <summary>
@@ -240,5 +238,7 @@ The repository includes various algorithm and data structure implementations suc
 ## CONTACT ME &ensp;&ensp;
 
 </summary>
+
+</details>
 
 </details>
