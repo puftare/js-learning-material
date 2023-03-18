@@ -214,7 +214,7 @@ The repository includes various algorithm and data structure implementations suc
 
 <summary>
 
-## FUN-WITH-JS &ensp;
+## FUN-WITH-JS &ensp;;&ensp;
 
 </summary>
 
