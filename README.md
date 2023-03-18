@@ -231,12 +231,12 @@ The repository includes various algorithm and data structure implementations suc
 
 <details>
 
-<details>
-
 <summary>
 
 ## CONTACT ME &ensp;&ensp;
 
 </summary>
+
+</details>
 
 </details>
