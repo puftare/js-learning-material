@@ -176,27 +176,6 @@ The repository includes various algorithm and data structure implementations suc
 
 </details>
 
-<details>
-
-<summary>
-
-## FUN-WITH-JS &ensp;
-
-<br>
-
-- [x] [jQuerry](https://github.com/puftare/js-learning-material/tree/master/fun-with-js/jQuerry)
-  - [x] [js-minesweeper](https://github.com/puftare/js-learning-material/tree/master/fun-with-js/jQuerry/js-minesweeper)
-  - [x] [js-pong](https://github.com/puftare/js-learning-material/tree/master/fun-with-js/jQuerry/js-pong)
-  - [x] [browser-in-browser](https://github.com/puftare/js-learning-material/tree/master/fun-with-js/jQuerry/browserBrowser)
-- [x] [js](https://github.com/puftare/js-learning-material/tree/master/fun-with-js/js)
-  - [x] [js-questions](https://github.com/puftare/js-learning-material/tree/master/fun-with-js/js/questions.js)
-
-</summary>
-
-</details>
-
-<details>
-
 <summary>
 
 ## ALGORITHMS &ensp;&ensp;
@@ -230,6 +209,27 @@ The repository includes various algorithm and data structure implementations suc
   - [x] [bubble-sort](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/sorting/bubble-sort)
 
 </details>
+
+<details>
+
+<summary>
+
+## FUN-WITH-JS &ensp;
+
+</summary>
+
+<br>
+
+- [x] [jQuerry](https://github.com/puftare/js-learning-material/tree/master/fun-with-js/jQuerry)
+  - [x] [js-minesweeper](https://github.com/puftare/js-learning-material/tree/master/fun-with-js/jQuerry/js-minesweeper)
+  - [x] [js-pong](https://github.com/puftare/js-learning-material/tree/master/fun-with-js/jQuerry/js-pong)
+  - [x] [browser-in-browser](https://github.com/puftare/js-learning-material/tree/master/fun-with-js/jQuerry/browserBrowser)
+- [x] [js](https://github.com/puftare/js-learning-material/tree/master/fun-with-js/js)
+  - [x] [js-questions](https://github.com/puftare/js-learning-material/tree/master/fun-with-js/js/questions.js)
+
+</details>
+
+<details>
 
 <details>
 
