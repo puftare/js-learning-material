@@ -1,24 +1,6 @@
 # State-of-the-Art Shitcode Principles
 
-[![State-of-the-art Shitcode](https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=7B5804)](https://github.com/trekhleb/state-of-the-art-shitcode)
-
 This a list of state-of-the-art shitcode principles your project should follow to call it a proper shitcode.
-
-_Read this in other languages:_
-[_简体中文_](README.zh-CN.md),
-[_한국어_](README.ko-KR.md)
-
-## Get Your Badge
-
-If your repository follows the state-of-the-art shitcode principles you may use the following "state-of-the-art shitcode" badge:
-
-[![State-of-the-art Shitcode](https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=7B5804)](https://github.com/trekhleb/state-of-the-art-shitcode)
-
-Markdown source-code for the badge:
-
-```
-[![State-of-the-art Shitcode](https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=7B5804)](https://github.com/trekhleb/state-of-the-art-shitcode)
-```
 
 ## The Principles
 
