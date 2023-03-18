@@ -212,8 +212,6 @@ The repository includes various algorithm and data structure implementations suc
 
 </details>
 
-</details>
-
 <details>
 
 <summary>
@@ -227,6 +225,8 @@ The repository includes various algorithm and data structure implementations suc
   - [x] [js-pong](https://github.com/puftare/js-learning-material/tree/master/fun-with-js/jQuerry/js-pong)
 
 </summary>
+
+</details>
 
 </details>
 
