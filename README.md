@@ -240,5 +240,3 @@ The repository includes various algorithm and data structure implementations suc
 </summary>
 
 </details>
-
-</details>
