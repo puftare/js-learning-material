@@ -197,6 +197,7 @@ The repository includes various algorithm and data structure implementations suc
   - [x] [square-root](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/math/square-root)
 - [x] [sorting](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/sorting)
   - [x] [bubble-sort](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/sorting/bubble-sort)
+  - [x] [insertion-sort](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/sorting/insertion-sort)
 
 <!-- </details> -->
 
