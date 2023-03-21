@@ -175,11 +175,14 @@ The repository includes various algorithm and data structure implementations suc
 <br>
 
 - [x] [cryptography](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/cryptography)
+
   - [x] [caesar-cipher](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/cryptography/caesar-cipher)
   - [x] [hill-cipher](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/cryptography/hill-cipher)
   - [x] [polynomial-hash](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/cryptography/polynomial-hash)
   - [x] [rail-fence-cipher](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/cryptography/rail-fence-cipher)
+
 - [x] [math](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/math)
+
   - [x] [matrix](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/math/matrix)
   - [x] [binary-floating-point](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/math/binary-floating-point)
   - [x] [bits](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/math/bits)
@@ -197,7 +200,10 @@ The repository includes various algorithm and data structure implementations suc
   - [x] [square-root](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/math/square-root)
   - [x] [least-common-multiple](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/math/least-common-multiple)
   - [x] [liu-hui](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/math/liu-hui)
+  - [x] [pascal-triangle](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/math/pascal-triangle)
+
 - [x] [sorting](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/sorting)
+
   - [x] [bubble-sort](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/sorting/bubble-sort)
   - [x] [insertion-sort](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/sorting/insertion-sort)
 
