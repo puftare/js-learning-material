@@ -201,6 +201,7 @@ The repository includes various algorithm and data structure implementations suc
   - [x] [least-common-multiple](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/math/least-common-multiple)
   - [x] [liu-hui](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/math/liu-hui)
   - [x] [pascal-triangle](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/math/pascal-triangle)
+  - [x] [primality-test](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/math/primality-test)
 
 - [x] [sorting](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/sorting)
 
