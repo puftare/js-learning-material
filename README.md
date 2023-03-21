@@ -166,11 +166,13 @@ The repository includes various algorithm and data structure implementations suc
 
 </details>
 
-<!-- <summary> -->
+<details>
+
+<summary>
 
 ## ALGORITHMS
 
-<!-- </summary> -->
+</summary>
 
 <br>
 
@@ -208,7 +210,7 @@ The repository includes various algorithm and data structure implementations suc
   - [x] [bubble-sort](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/sorting/bubble-sort)
   - [x] [insertion-sort](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/sorting/insertion-sort)
 
-<!-- </details> -->
+</details>
 
 <details>
 
