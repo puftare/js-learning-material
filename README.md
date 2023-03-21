@@ -330,7 +330,7 @@ The repository includes various algorithm and data structure implementations suc
 
 [def]: https://github.com/puftare
 
-["mar.potkonjak@gmail.com"]
+[mar.potkonjak@gmail.com]
 
 </details>
 
