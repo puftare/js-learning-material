@@ -328,7 +328,9 @@ The repository includes various algorithm and data structure implementations suc
 
 [puftare][def] 🤓
 
-[def]: https://github.com/puftare "mar.potkonjak@gmail.com"
+[def]: https://github.com/puftare
+
+["mar.potkonjak@gmail.com"]
 
 </details>
 
