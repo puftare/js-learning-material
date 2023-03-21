@@ -10,6 +10,16 @@ The repository includes various algorithm and data structure implementations suc
 
 <summary>
 
+## TOC &ensp;&ensp;
+
+</summary>
+
+<br>
+
+<details>
+
+<summary>
+
 ## JAVASCRIPT-LEARNING &ensp;&ensp;
 
 </summary>
@@ -250,14 +260,14 @@ The repository includes various algorithm and data structure implementations suc
 
 <br>
 
-- [x] [CRYPTOGRAPHY](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/cryptography)
+- [x] [`[CRYPTOGRAPHY]`](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/cryptography)
 
   - [x] [caesar-cipher](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/cryptography/caesar-cipher)
   - [x] [hill-cipher](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/cryptography/hill-cipher)
   - [x] [polynomial-hash](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/cryptography/polynomial-hash)
   - [x] [rail-fence-cipher](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/cryptography/rail-fence-cipher)
 
-- [x] [MATH](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/math)
+- [x] [`[MATH]`](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/math)
 
   - [x] [matrix](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/math/matrix)
   - [x] [binary-floating-point](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/math/binary-floating-point)
@@ -319,5 +329,7 @@ The repository includes various algorithm and data structure implementations suc
 [puftare][def] 🤓
 
 [def]: https://github.com/puftare
+
+</details>
 
 </details>
