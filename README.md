@@ -289,6 +289,7 @@ The repository includes various algorithm and data structure implementations suc
   - [x] [pascal-triangle](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/math/pascal-triangle)
   - [x] [primality-test](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/math/primality-test)
   - [x] [prime-factors](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/math/prime-factors)
+  - [x] [sieve-of-eratosthenes](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/math/sieve-of-eratosthenes)
 
 - [x] [`[SORTING]`](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/sorting)
 
