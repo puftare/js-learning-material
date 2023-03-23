@@ -295,6 +295,7 @@ The repository includes various algorithm and data structure implementations suc
 
   - [x] [bubble-sort](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/sorting/bubble-sort)
   - [x] [insertion-sort](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/sorting/insertion-sort)
+  - [x] [merge-sort](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/sorting/merge-sort)
 
 </details>
 
