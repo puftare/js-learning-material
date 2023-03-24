@@ -36,3 +36,17 @@ One way of detecting BITB is by attempting to drag the window to the edge of the
 # Disclaimer
 
 Usage of these templates for attacking targets without prior consent is illegal. It's the end user's responsibility to obey all applicable laws. The developer is not responsible for any misuse of these templates.
+
+<details>
+
+<summary>
+
+## AUTHOR &ensp;&ensp;
+
+</summary>
+
+[mr.d0x][def] 🤓
+
+[def]: https://mrd0x.com/
+
+</details>
