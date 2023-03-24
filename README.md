@@ -298,6 +298,7 @@ The repository includes various algorithm and data structure implementations suc
   - [x] [merge-sort](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/sorting/merge-sort)
   - [x] [quick-sort](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/sorting/quick-sort)
   - [x] [radix-sort](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/sorting/radix-sort)
+  - [x] [shell-sort](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/sorting/shell-sort)
 
 </details>
 
