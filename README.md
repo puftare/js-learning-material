@@ -324,20 +324,4 @@ The repository includes various algorithm and data structure implementations suc
 
 </details>
 
-<details>
-
-<summary>
-
-## CONTACT ME &ensp;&ensp;
-
-</summary>
-
-[puftare][def] 🤓
-
-[def]: https://github.com/puftare
-
-[mar.potkonjak@gmail.com]
-
-</details>
-
 </details>
