@@ -300,6 +300,9 @@ The repository includes various algorithm and data structure implementations suc
   - [x] [radix-sort](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/sorting/radix-sort)
   - [x] [shell-sort](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/sorting/shell-sort)
 
+- [x] [`[STRING]`](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/string)
+  - [x] [hamming-distance](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/string/hamming-distance)
+
 </details>
 
 <details>
