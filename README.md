@@ -304,6 +304,7 @@ The repository includes various algorithm and data structure implementations suc
   - [x] [hamming-distance](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/string/hamming-distance)
   - [x] [knuth-morris-pratt](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/string/knuth-morris-pratt)
   - [x] [rabin-karp](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/string/rabin-karp)
+  - [x] [palindrome](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/string/palindrome)
 
 </details>
 
