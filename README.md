@@ -305,6 +305,7 @@ The repository includes various algorithm and data structure implementations suc
   - [x] [knuth-morris-pratt](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/string/knuth-morris-pratt)
   - [x] [rabin-karp](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/string/rabin-karp)
   - [x] [palindrome](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/string/palindrome)
+  - [x] [levenshtein-distance](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/string/levenshtein-distance)
 
 </details>
 
