@@ -307,6 +307,7 @@ The repository includes various algorithm and data structure implementations suc
   - [x] [palindrome](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/string/palindrome)
   - [x] [levenshtein-distance](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/string/levenshtein-distance)
   - [x] [z-algorithm](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/string/z-algorithm)
+  - [x] [longest-commmon-substring](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/string/longest-commmon-substring)
 
 </details>
 
