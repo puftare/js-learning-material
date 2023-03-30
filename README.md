@@ -286,10 +286,10 @@ The repository includes various algorithm and data structure implementations suc
 
 - [x] [`[CRYPTOGRAPHY]`](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/cryptography)
 
-- [x] [caesar-cipher](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/cryptography/caesar-cipher)
-- [x] [hill-cipher](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/cryptography/hill-cipher)
-- [x] [polynomial-hash](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/cryptography/polynomial-hash)
-- [x] [rail-fence-cipher](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/cryptography/rail-fence-cipher)
+  - [x] [caesar-cipher](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/cryptography/caesar-cipher)
+  - [x] [hill-cipher](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/cryptography/hill-cipher)
+  - [x] [polynomial-hash](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/cryptography/polynomial-hash)
+  - [x] [rail-fence-cipher](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/cryptography/rail-fence-cipher)
 
 - [x] [`[MATH]`](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/math)
 
