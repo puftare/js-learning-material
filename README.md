@@ -270,9 +270,9 @@ The repository includes various algorithm and data structure implementations suc
 
 <br>
 
-- [x] [linked-list](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/data-structures/linked-list)
-- [x] [stack](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/data-structures/stack)
-- [x] [queue](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/data-structures/queue)
+- [x] [linked-list](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/data-structures/linked-list)
+- [x] [stack](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/data-structures/stack)
+- [x] [queue](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/data-structures/queue)
 
 </details>
 
@@ -286,31 +286,31 @@ The repository includes various algorithm and data structure implementations suc
 
 <br>
 
-- [x] [`[CRYPTOGRAPHY]`](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/cryptography)
+- [x] [`[CRYPTOGRAPHY]`](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/cryptography)
 
-  - [x] [caesar-cipher](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/cryptography/caesar-cipher)
-  - [x] [hill-cipher](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/cryptography/hill-cipher)
-  - [x] [polynomial-hash](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/cryptography/polynomial-hash)
-  - [x] [rail-fence-cipher](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/cryptography/rail-fence-cipher)
+  - [x] [caesar-cipher](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/cryptography/caesar-cipher)
+  - [x] [hill-cipher](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/cryptography/hill-cipher)
+  - [x] [polynomial-hash](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/cryptography/polynomial-hash)
+  - [x] [rail-fence-cipher](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/cryptography/rail-fence-cipher)
 
-- [x] [`[MATH]`](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/math)
+- [x] [`[MATH]`](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/math)
 
-  - [x] [matrix](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/math/matrix)
-  - [x] [binary-floating-point](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/math/binary-floating-point)
-  - [x] [bits](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/math/bits)
-  - [x] [complex-number](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/math/complex-number)
-  - [x] [radian](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/math/radian)
-  - [x] [euclidean-algorithm](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/math/euclidean-algorithm)
-  - [x] [euclidean-distance](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/math/euclidean-distance)
-  - [x] [factorial](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/math/factorial)
-  - [x] [fast-powering](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/math/fast-powering)
-  - [x] [fibonacci](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/math/fibonacci)
-  - [x] [fourier-transform](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/math/fourier-transform)
-  - [x] [horner-method](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/math/horner-method)
-  - [x] [integer-partition](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/math/integer-partition)
-  - [x] [is-power-of-two](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/math/is-power-of-two)
-  - [x] [square-root](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/math/square-root)
-  - [x] [least-common-multiple](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/math/least-common-multiple)
+  - [x] [matrix](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/math/matrix)
+  - [x] [binary-floating-point](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/math/binary-floating-point)
+  - [x] [bits](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/math/bits)
+  - [x] [complex-number](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/math/complex-number)
+  - [x] [radian](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/math/radian)
+  - [x] [euclidean-algorithm](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/math/euclidean-algorithm)
+  - [x] [euclidean-distance](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/math/euclidean-distance)
+  - [x] [factorial](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/math/factorial)
+  - [x] [fast-powering](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/math/fast-powering)
+  - [x] [fibonacci](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/math/fibonacci)
+  - [x] [fourier-transform](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/math/fourier-transform)
+  - [x] [horner-method](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/math/horner-method)
+  - [x] [integer-partition](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/math/integer-partition)
+  - [x] [is-power-of-two](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/math/is-power-of-two)
+  - [x] [square-root](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/math/square-root)
+  - [x] [least-common-multiple](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/math/least-common-multiple)
   - [x] [liu-hui](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/math/liu-hui)
   - [x] [pascal-triangle](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/math/pascal-triangle)
   - [x] [primality-test](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/math/primality-test)
