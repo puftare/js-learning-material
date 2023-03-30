@@ -254,6 +254,16 @@ The repository includes various algorithm and data structure implementations suc
 
 <summary>
 
+## ALGORITHMS & DATA-STRUCTURES &ensp;&ensp;
+
+</summary>
+
+<br>
+
+<details>
+
+<summary>
+
 ## DATA-STRUCTURES &ensp;&ensp;
 
 </summary>
@@ -273,13 +283,12 @@ The repository includes various algorithm and data structure implementations suc
 </summary>
 
 <br>
-
 - [x] [`[CRYPTOGRAPHY]`](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/cryptography)
 
-  - [x] [caesar-cipher](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/cryptography/caesar-cipher)
-  - [x] [hill-cipher](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/cryptography/hill-cipher)
-  - [x] [polynomial-hash](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/cryptography/polynomial-hash)
-  - [x] [rail-fence-cipher](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/cryptography/rail-fence-cipher)
+- [x] [caesar-cipher](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/cryptography/caesar-cipher)
+- [x] [hill-cipher](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/cryptography/hill-cipher)
+- [x] [polynomial-hash](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/cryptography/polynomial-hash)
+- [x] [rail-fence-cipher](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/cryptography/rail-fence-cipher)
 
 - [x] [`[MATH]`](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/math)
 
@@ -323,6 +332,8 @@ The repository includes various algorithm and data structure implementations suc
   - [x] [z-algorithm](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/string/z-algorithm)
   - [x] [longest-commmon-substring](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/string/longest-commmon-substring)
   - [x] [regular-expression-matching](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/string/regular-expression-matching)
+
+</details>
 
 </details>
 
