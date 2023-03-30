@@ -254,7 +254,21 @@ The repository includes various algorithm and data structure implementations suc
 
 <summary>
 
-## ALGORITHMS
+## DATA-STRUCTURES &ensp;&ensp;
+
+</summary>
+
+<br>
+
+- [x] [linked-list](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/data-structures/linked-list)
+
+</details>
+
+<details>
+
+<summary>
+
+## ALGORITHMS &ensp;&ensp;
 
 </summary>
 
