@@ -271,6 +271,7 @@ The repository includes various algorithm and data structure implementations suc
 <br>
 
 - [x] [linked-list](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/data-structures/linked-list)
+- [x] [stack](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/data-structures/stack)
 
 </details>
 
