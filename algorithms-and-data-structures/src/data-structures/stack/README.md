@@ -18,5 +18,3 @@ may require taking off multiple other items first.
 Simple representation of a stack runtime with push and pop operations.
 
 ![Stack](./images/stack.jpeg)
-
-_Made with [okso.app](https://okso.app)_
