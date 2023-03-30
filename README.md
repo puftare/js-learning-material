@@ -283,6 +283,7 @@ The repository includes various algorithm and data structure implementations suc
 </summary>
 
 <br>
+
 - [x] [`[CRYPTOGRAPHY]`](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/cryptography)
 
 - [x] [caesar-cipher](https://github.com/puftare/js-learning-material/tree/master/algorithms/src/algorithms/cryptography/caesar-cipher)
