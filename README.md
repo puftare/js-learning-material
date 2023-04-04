@@ -275,6 +275,7 @@ The repository includes various algorithm and data structure implementations suc
 - [x] [queue](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/data-structures/queue)
 - [x] [heap](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/data-structures/heap)
 - [x] [graph](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/data-structures/graph)
+- [x] [doubly-linked-list](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/data-structures/doubly-linked-list)
 
 </details>
 
