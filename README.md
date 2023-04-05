@@ -363,6 +363,7 @@ The repository includes various algorithm and data structure implementations suc
 - [x] [`[js]`](https://github.com/puftare/js-learning-material/tree/master/fun-with-js/js)
 
   - [x] [js-questions](https://github.com/puftare/js-learning-material/tree/master/fun-with-js/js/questions.js)
+  - [x] [keyboardWarrior](https://github.com/puftare/js-learning-material/tree/master/fun-with-js/js/keyboardWarrior)
 
 </details>
 
