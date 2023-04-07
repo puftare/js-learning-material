@@ -278,6 +278,7 @@ The repository includes various algorithm and data structure implementations suc
 - [x] [doubly-linked-list](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/data-structures/doubly-linked-list)
 - [x] [hash-table](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/data-structures/hash-table)
 - [x] [disjoint-set](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/data-structures/disjoint-set)
+- [x] [trie](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/data-structures/trie)
 
 </details>
 
