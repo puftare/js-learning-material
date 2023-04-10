@@ -280,6 +280,7 @@ The repository includes various algorithm and data structure implementations suc
 - [x] [disjoint-set](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/data-structures/disjoint-set)
 - [x] [trie](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/data-structures/trie)
 - [x] [priority-queue](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/data-structures/priority-queue)
+- [x] [bloom-filter](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/data-structures/bloom-filter)
 
 </details>
 
