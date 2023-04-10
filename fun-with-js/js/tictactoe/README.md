@@ -1,3 +1,3 @@
 # TicTacToe
 
-`to start the project just type "open index.html"`
+`to start the project just open "./index.html"`
