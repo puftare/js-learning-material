@@ -57,7 +57,7 @@ const instance2 = Singleton.getInstance();
 console.log(instance1 === instance2); // true
 `
 
-[![signleton]("assets/counterInstance.webm")
+[![signleton](assets/counterInstance.webm)
 
 In this example, the `Singleton` function returns an object with a `getInstance` method that creates an instance of the object if it does not already exist. If an instance already exists, the `getInstance` method returns that instance. The `instance` variable is kept private using a closure, which ensures that only one instance of the object is created.
 
