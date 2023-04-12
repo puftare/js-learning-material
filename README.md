@@ -363,7 +363,9 @@ The repository includes various algorithm and data structure implementations suc
 
 - [x] [`[react-patterns]`](https://github.com/puftare/js-learning-material/tree/master/react-patterns)
 
-  - [x] [`[singleton-pattern]`](https://github.com/puftare/js-learning-material/tree/master/react-patterns/singleton-pattern)
+  - [x] [`[design-patterns]`](https://github.com/puftare/js-learning-material/tree/master/react-patterns/design-patterns)
+
+    - [x] [`[singleton-pattern]`](https://github.com/puftare/js-learning-material/tree/master/react-patterns/design-patterns/singleton-pattern)
 
 </details>
 
