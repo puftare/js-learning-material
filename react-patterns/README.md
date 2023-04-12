@@ -55,31 +55,31 @@ In addition, all patterns can be categorized by their intent, or purpose. This b
 
 [`Creational patterns`]
 
-    -`Factory`
-    -`Abstract Factory`
-    -`Builder`
-    -`Prototype`
-    -`Singleton`
+    - `Factory`
+    - `Abstract Factory`
+    - `Builder`
+    - `Prototype`
+    - `Singleton`
 
 [`Structural patterns`]
 
-    -`Adapter`
-    -`Bridge`
-    -`Composite`
-    -`Decorator`
-    -`Facade`
-    -`Flyweight`
-    -`Proxy`
+    - `Adapter`
+    - `Bridge`
+    - `Composite`
+    - `Decorator`
+    - `Facade`
+    - `Flyweight`
+    - `Proxy`
 
 [`Behavioral patterns`]
 
-    -`Chain of responsibility`
-    -`Command`
-    -`Iterator`
-    -`Mediator`
-    -`Memento`
-    -`Observer`
-    -`State`
-    -`Strategy`
-    -`Template method`
-    -`Visitor`
+    - `Chain of responsibility`
+    - `Command`
+    - `Iterator`
+    - `Mediator`
+    - `Memento`
+    - `Observer`
+    - `State`
+    - `Strategy`
+    - `Template method`
+    - `Visitor`
