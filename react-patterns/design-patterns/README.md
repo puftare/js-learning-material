@@ -10,7 +10,8 @@ The Singleton design pattern is useful in situations where you need to ensure th
 
 In JavaScript, the Singleton design pattern can be implemented using a simple object literal or a function. Here is an example of a simple Singleton using an object literal:
 
-`const singleton = {
+```
+const singleton = {
 // Singleton properties and methods
 property1: "value",
 property2: "value",
@@ -25,13 +26,13 @@ method2: function() {
 // Usage
 singleton.method1();
 singleton.property1;
-`
+```
 
 In this example, the `singleton` object contains properties and methods that can be accessed from anywhere in the application. Because it is defined as a constant, it cannot be redefined or reassigned.
 
 Alternatively, you can use a function to create a Singleton:
 
-`
+```
 const Singleton = (function() {
 let instance;
 
@@ -55,9 +56,9 @@ const instance1 = Singleton.getInstance();
 const instance2 = Singleton.getInstance();
 
 console.log(instance1 === instance2); // true
-`
+```
 
-![signleton](./assets/react-patterns_design-patterns_assets_counterInstance.gif)
+![singleton](./assets/react-patterns_design-patterns_assets_counterInstance.gif)
 
 In this example, the `Singleton` function returns an object with a `getInstance` method that creates an instance of the object if it does not already exist. If an instance already exists, the `getInstance` method returns that instance. The `instance` variable is kept private using a closure, which ensures that only one instance of the object is created.
 
