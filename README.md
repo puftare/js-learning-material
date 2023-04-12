@@ -355,6 +355,18 @@ The repository includes various algorithm and data structure implementations suc
 
 <summary>
 
+## REACT PATTERNS &ensp;&ensp;
+
+</summary>
+
+<br>
+
+</details>
+
+<details>
+
+<summary>
+
 ## FUN-WITH-JS &ensp;&ensp;
 
 </summary>
