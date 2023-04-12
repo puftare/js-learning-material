@@ -12,15 +12,15 @@ In JavaScript, the Singleton design pattern can be implemented using a simple ob
 
 ```
 const singleton = {
-// Singleton properties and methods
-property1: "value",
-property2: "value",
-method1: function() {
-// method code
-},
-method2: function() {
-// method code
-}
+    // Singleton properties and methods
+    property1: "value",
+    property2: "value",
+    method1: function() {
+        // method code
+    },
+    method2: function() {
+        // method code
+    }
 };
 
 // Usage
@@ -34,21 +34,21 @@ Alternatively, you can use a function to create a Singleton:
 
 ```
 const Singleton = (function() {
-let instance;
+    let instance;
 
-function createInstance() {
-const object = new Object("I am the instance");
-return object;
-}
+    function createInstance() {
+        const object = new Object("I am the instance");
+        return object;
+    }
 
-return {
-getInstance: function() {
-if (!instance) {
-instance = createInstance();
-}
-return instance;
-}
-};
+    return {
+        getInstance: function() {
+        if (!instance) {
+            instance = createInstance();
+        }
+        return instance;
+        }
+    };
 })();
 
 // Usage
