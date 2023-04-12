@@ -361,6 +361,8 @@ The repository includes various algorithm and data structure implementations suc
 
 <br>
 
+- [x] [`[react-patterns]`](https://github.com/puftare/js-learning-material/tree/master/react-patterns)
+
 </details>
 
 <details>
