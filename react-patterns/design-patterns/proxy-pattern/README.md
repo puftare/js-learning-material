@@ -212,3 +212,90 @@ The proxy can also track whether the client had modified the service object. The
 - `Facade` is similar to `Proxy` in that both buffer a complex entity and initialize it on its own. Unlike Facade, Proxy has the same interface as its service object, which makes them interchangeable.
 
 - `Decorator` and `Proxy` have similar structures, but very different intents. Both patterns are built on the composition principle, where one object is supposed to delegate some of the work to another. The difference is that a Proxy usually manages the life cycle of its service object on its own, whereas the composition of Decorators is always controlled by the client.
+
+## Implementing the Proxy Design Pattern in JavaScript
+
+```
+
+const person = {
+
+  name: "John Doe",
+  age: 42,
+  nationality: "American"
+
+};
+
+const personProxy = new Proxy(person, {
+
+  get: (obj, prop) => {
+
+    if (!obj[prop]) {
+      console.log(`Hmm.. this property doesn't seem to exist`);
+
+    } else {
+      console.log(`The value of ${prop} is ${obj[prop]}`);
+
+    }
+
+  },
+  set: (obj, prop, value) => {
+
+    if (prop === "age" && typeof value !== "number") {
+      console.log(`Sorry, you can only pass numeric values for age.`);
+
+    } else if (prop === "name" && value.length < 2) {
+      console.log(`You need to provide a valid name.`);
+
+    } else {
+      console.log(`Changed ${prop} from ${obj[prop]} to ${value}.`);
+      obj[prop] = value;
+
+    }
+    return true;
+  }
+
+});
+
+personProxy.nonExistentProperty;
+personProxy.age = "44";
+personProxy.name = "";
+
+```
+
+The proxy made sure that we weren't modifying the person object with faulty values, which helps us keep our data pure!
+
+```
+
+const person = {
+
+  name: "John Doe",
+  age: 42,
+  nationality: "American"
+
+};
+
+const personProxy = new Proxy(person, {
+
+  get: (obj, prop) => {
+
+    console.log(`The value of ${prop} is ${Reflect.get(obj, prop)}`);
+  },
+  set: (obj, prop, value) => {
+
+    console.log(`Changed ${prop} from ${obj[prop]} to ${value}`);
+    return Reflect.set(obj, prop, value);
+  }
+
+});
+
+personProxy.name;
+personProxy.age = 43;
+personProxy.name = "Jane Doe";
+
+```
+
+JavaScript provides a built-in object called `Reflect`, which makes it easier for us to manipulate the target object when working with proxies.
+
+Previously, we tried to modify and access properties on the target object within the proxy through directly getting or setting the values with bracket notation. Instead, we can use the Reflect object. The methods on the Reflect object have the same name as the methods on the `handler` object.
+
+Instead of accessing properties through `obj[prop]` or setting properties through `obj[prop] = value`, we can access or modify properties on the target object through `Reflect.get()` and `Reflect.set()`. The methods receive the same arguments as the methods on the handler object.
