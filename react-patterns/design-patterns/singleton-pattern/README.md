@@ -56,14 +56,18 @@ In this example, the database connection class acts as a Singleton. This class d
 // The Database class defines the `getInstance` method that lets
 // clients access the same instance of a database connection
 // throughout the program.
+
 class Database is
+
     // The field for storing the singleton instance should be
     // declared static.
+
     private static field instance: Database
 
     // The singleton's constructor should always be private to
     // prevent direct construction calls with the `new`
     // operator.
+
     private constructor Database() is
         // Some initialization code, such as the actual
         // connection to a database server.
@@ -71,18 +75,24 @@ class Database is
 
     // The static method that controls access to the singleton
     // instance.
+
     public static method getInstance() is
+
         if (Database.instance == null) then
             acquireThreadLock() and then
+
                 // Ensure that the instance hasn't yet been
                 // initialized by another thread while this one
                 // has been waiting for the lock's release.
+
                 if (Database.instance == null) then
                     Database.instance = new Database()
+
         return Database.instance
 
     // Finally, any singleton should define some business logic
     // which can be executed on its instance.
+
     public method query(sql) is
         // For instance, all database queries of an app go
         // through this method. Therefore, you can place
@@ -90,14 +100,20 @@ class Database is
         // ...
 
 class Application is
+
     method main() is
+
         Database foo = Database.getInstance()
         foo.query("SELECT ...")
+
         // ...
+
         Database bar = Database.getInstance()
         bar.query("SELECT ...")
+
         // The variable `bar` will contain the same object as
         // the variable `foo`.
+
 ```
 
 ## Applicability
@@ -156,20 +172,28 @@ In JavaScript, the Singleton design pattern can be implemented using a simple ob
 
 ```
 const singleton = {
+
     // Singleton properties and methods
+
     property1: "value",
     property2: "value",
+
     method1: function() {
+
         // method code
     },
+
     method2: function() {
+
         // method code
     }
 };
 
 // Usage
+
 singleton.method1();
 singleton.property1;
+
 ```
 
 In this example, the `singleton` object contains properties and methods that can be accessed from anywhere in the application. Because it is defined as a constant, it cannot be redefined or reassigned.
@@ -178,6 +202,7 @@ Alternatively, you can use a function to create a Singleton:
 
 ```
 const Singleton = (function() {
+
     let instance;
 
     function createInstance() {
@@ -196,10 +221,12 @@ const Singleton = (function() {
 })();
 
 // Usage
+
 const instance1 = Singleton.getInstance();
 const instance2 = Singleton.getInstance();
 
 console.log(instance1 === instance2); // true
+
 ```
 
 ![singleton](./assets/react-patterns_design-patterns_assets_counterInstance.gif)
