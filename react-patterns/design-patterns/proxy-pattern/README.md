@@ -32,17 +32,15 @@ A credit card is a proxy for a bank account, which is a proxy for a bundle of ca
 
 ### Structure
 
-[1]
-The `Service Interface` declares the interface of the Service. The proxy must follow this interface to be able to disguise itself as a service object.
-[2]
-The `Service` is a class that provides some useful business logic.
+- [1] [The `Service Interface` declares the interface of the Service. The proxy must follow this interface to be able to disguise itself as a service object.]
+
+- [2] [The `Service` is a class that provides some useful business logic. ]
 
 ![structure](./assets/structure-2x.png)
 
-[3]
-The `Proxy` class has a reference field that points to a service object. After the proxy finishes its processing (e.g., lazy initialization, logging, access control, caching, etc.), it passes the request to the service object.
-[4]
-The `Client` should work with both services and proxies via the same interface. This way you can pass a proxy into any code that expects a service object.
+- [3] [The `Proxy` class has a reference field that points to a service object. After the proxy finishes its processing (e.g., lazy initialization, logging, access control, caching, etc.), it passes the request to the service object.]
+
+- [4] [The `Client` should work with both services and proxies via the same interface. This way you can pass a proxy into any code that expects a service object.]
 
 ### Pseudocode
 
@@ -202,4 +200,3 @@ The proxy can also track whether the client had modified the service object. The
 - `Facade` is similar to `Proxy` in that both buffer a complex entity and initialize it on its own. Unlike Facade, Proxy has the same interface as its service object, which makes them interchangeable.
 
 - `Decorator` and `Proxy` have similar structures, but very different intents. Both patterns are built on the composition principle, where one object is supposed to delegate some of the work to another. The difference is that a Proxy usually manages the life cycle of its service object on its own, whereas the composition of Decorators is always controlled by the client.
-
