@@ -264,6 +264,8 @@ personProxy.name = "";
 
 The proxy made sure that we weren't modifying the person object with faulty values, which helps us keep our data pure!
 
+![proxy](./assets/jspat-51_xvbob9.gif)
+
 ```
 
 const person = {
