@@ -340,6 +340,7 @@ The repository includes various algorithm and data structure implementations suc
   - [x] [quick-sort](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/sorting/quick-sort)
   - [x] [radix-sort](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/sorting/radix-sort)
   - [x] [shell-sort](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/sorting/shell-sort)
+  - [x] [counting-sort](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/sorting/counting-sort)
 
 - [x] [`[STRING]`](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/string)
   - [x] [hamming-distance](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/string/hamming-distance)
