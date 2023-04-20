@@ -287,6 +287,7 @@ The repository includes various algorithm and data structure implementations suc
   - [x] [fenwick-tree](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/data-structures/tree/fenwick-tree)
   - [x] [red-black-tree](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/data-structures/tree/red-black-tree)
   - [x] [segment-tree](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/data-structures/tree/segment-tree)
+- [x] [lru-cache](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/data-structures/lru-cache)
 
 </details>
 
