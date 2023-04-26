@@ -345,6 +345,7 @@ The repository includes various algorithm and data structure implementations suc
   - [x] [heap-sort](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/sorting/heap-sort)
 
 - [x] [`[STRING]`](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/string)
+
   - [x] [hamming-distance](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/string/hamming-distance)
   - [x] [knuth-morris-pratt](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/string/knuth-morris-pratt)
   - [x] [rabin-karp](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/string/rabin-karp)
@@ -353,6 +354,10 @@ The repository includes various algorithm and data structure implementations suc
   - [x] [z-algorithm](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/string/z-algorithm)
   - [x] [longest-commmon-substring](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/string/longest-commmon-substring)
   - [x] [regular-expression-matching](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/string/regular-expression-matching)
+
+- [x] [`[TREE]`](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/tree)
+
+  - [x] [breadth-first-search](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/tree/breadth-first-search)
 
 </details>
 
