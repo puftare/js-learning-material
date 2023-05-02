@@ -363,6 +363,7 @@ The repository includes various algorithm and data structure implementations suc
 - [x] [`[MACHINE-LEARNING]`](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/machine-learning)
 
   - [x] [k-means](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/machine-learning/k-means)
+  - [x] [knn](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/machine-learning/knn)
 
 </details>
 
