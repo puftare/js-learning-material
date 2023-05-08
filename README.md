@@ -370,6 +370,7 @@ The repository includes various algorithm and data structure implementations suc
   - [x] [binary-search](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/search/binary-search)
   - [x] [linear-search](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/search/linear-search)
   - [x] [jump-search](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/search/jump-search)
+  - [x] [interpolation-search](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/search/interpolation-search)
 
 </details>
 
