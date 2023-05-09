@@ -372,6 +372,10 @@ The repository includes various algorithm and data structure implementations suc
   - [x] [jump-search](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/search/jump-search)
   - [x] [interpolation-search](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/search/interpolation-search)
 
+- [x] [`[GRAPH]`](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/graph)
+
+  - [x] [depth-first-search](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/search/depth-first-search)
+
 </details>
 
 </details>
