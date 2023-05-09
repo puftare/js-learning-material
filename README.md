@@ -375,6 +375,7 @@ The repository includes various algorithm and data structure implementations suc
 - [x] [`[GRAPH]`](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/graph)
 
   - [x] [depth-first-search](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/search/depth-first-search)
+  - [x] [breadth-first-search](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/search/breadth-first-search)
 
 </details>
 
