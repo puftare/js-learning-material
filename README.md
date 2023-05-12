@@ -378,6 +378,7 @@ The repository includes various algorithm and data structure implementations suc
   - [x] [breadth-first-search](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/graph/breadth-first-search)
   - [x] [dijkstra](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/graph/dijkstra)
   - [x] [prim](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/graph/prim)
+  - [x] [kruskal](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/graph/kruskal)
 
 </details>
 
