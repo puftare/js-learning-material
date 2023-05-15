@@ -1,4 +1,4 @@
-# Singleton Design Pattern in TypeScript/JavaScript
+## Singleton Design Pattern in TypeScript/JavaScript
 
 ### Intent
 
