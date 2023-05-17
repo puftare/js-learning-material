@@ -383,6 +383,7 @@ The repository includes various algorithm and data structure implementations suc
   - [x] [travelling-salesman](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/graph/travelling-salesman)
   - [x] [articulation-points](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/graph/articulation-points)
   - [x] [bellman-ford](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/graph/bellman-ford)
+  - [x] [bridges](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/graph/bridges)
 
 </details>
 
