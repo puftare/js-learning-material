@@ -385,6 +385,7 @@ The repository includes various algorithm and data structure implementations suc
   - [x] [bellman-ford](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/graph/bellman-ford)
   - [x] [bridges](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/graph/bridges)
   - [x] [eulerian-path](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/graph/eulerian-path)
+  - [x] [topological-sorting](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/graph/topological-sorting)
 
 </details>
 
