@@ -386,6 +386,7 @@ The repository includes various algorithm and data structure implementations suc
   - [x] [bridges](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/graph/bridges)
   - [x] [eulerian-path](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/graph/eulerian-path)
   - [x] [topological-sorting](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/graph/topological-sorting)
+  - [x] [hamiltonian-cycle](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/graph/hamiltonian-cycle)
 
 </details>
 
