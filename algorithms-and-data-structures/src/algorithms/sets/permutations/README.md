@@ -29,8 +29,6 @@ n * (n-1) * (n -2) * ... * 1 = n!
 When repetition is allowed we have permutations with repetitions.
 For example the the lock below: it could be `333`.
 
-![Permutation Lock](https://www.mathsisfun.com/combinatorics/images/combination-lock.jpg)
-
 **Number of combinations**
 
 ```
