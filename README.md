@@ -390,6 +390,10 @@ The repository includes various algorithm and data structure implementations suc
   - [x] [detect-cycle](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/graph/detect-cycle)
   - [x] [strongly-connected-components](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/graph/strongly-connected-components)
 
+- [x] [`[LINKED-LIST]`](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/linked-list)
+
+  - [x] [traversal](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/linked-list/traversal)
+
 </details>
 
 </details>
