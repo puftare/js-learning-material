@@ -4,11 +4,17 @@ This GitHub repository contains a collection of JavaScript applications, algorit
 
 The repository includes various algorithm and data structure implementations such as linked lists, stacks, queues, sorting algorithms, search algorithms, and more. Each section contains detailed explanations and code examples, making it easy to understand and apply the concepts covered.
 
-Or as Ada Lovelace would say:
+[`Or as Ada Lovelace would say:`]
 
 "Within this GitHub repository lies a compilation of JavaScript applications, algorithms, and data structures meticulously curated to enrich the prowess of aspiring computer scientists. Irrespective of your status as an intrepid novice or a seasoned developer, this compendium offers a comprehensive roadmap to augment your JavaScript programming acumen.
 
 Encompassed within this repository are an array of algorithmic masterpieces and data structure implementations, including but not limited to linked lists, stacks, queues, sorting algorithms, search algorithms, and beyond. Each segment is accompanied by lucid expositions and illustrative code snippets, ensuring the unfettered comprehension and facile application of the encompassed concepts."
+
+[`Or as Charles Babbage would say:`]
+
+"Contained within this GitHub repository lies an assortment of JavaScript applications, algorithms, and data structures, diligently curated to refine the cognitive faculties of computer science enthusiasts. Regardless of your station, whether a neophyte or a proficient artisan of code, this compendium presents an exhaustive compendium to foster mastery of the venerable JavaScript programming dialect.
+
+Embodied within this repository, one shall discover a myriad of algorithmic triumphs and data structure implementations, ranging from the humble linked lists to the majestic stacks, queues, sorting algorithms, search algorithms, and a pantheon of other marvels. Each section boasts elaborate expositions and illustrative code examples, vouchsafing a lucid apprehension and facile application of the engrossed tenets."
 
 ## Work in Progress..
 
