@@ -393,6 +393,7 @@ The repository includes various algorithm and data structure implementations suc
 - [x] [`[LINKED-LIST]`](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/linked-list)
 
   - [x] [traversal](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/linked-list/traversal)
+  - [x] [reverse-traversal](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/linked-list/reverse-traversal)
 
 </details>
 
