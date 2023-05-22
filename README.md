@@ -398,6 +398,7 @@ The repository includes various algorithm and data structure implementations suc
 - [x] [`[SETS]`](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/sets)
 
   - [x] [combinations](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/sets/combinations)
+  - [x] [permutations](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/sets/permutations)
 
 </details>
 
