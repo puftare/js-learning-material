@@ -412,6 +412,7 @@ Embodied within this repository, one shall discover a myriad of algorithmic triu
   - [x] [combinations](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/sets/combinations)
   - [x] [permutations](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/sets/permutations)
   - [x] [knapsack-problem](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/sets/knapsack-problem)
+  - [x] [fisher-yates](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/sets/fisher-yates)
 
 </details>
 
