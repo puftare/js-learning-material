@@ -414,6 +414,7 @@ Embodied within this repository, one shall discover a myriad of algorithmic triu
   - [x] [knapsack-problem](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/sets/knapsack-problem)
   - [x] [fisher-yates](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/sets/fisher-yates)
   - [x] [combination-sum](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/sets/combination-sum)
+  - [x] [cartesian-product](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/sets/cartesian-product)
 
 </details>
 
