@@ -415,6 +415,7 @@ Embodied within this repository, one shall discover a myriad of algorithmic triu
   - [x] [fisher-yates](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/sets/fisher-yates)
   - [x] [combination-sum](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/sets/combination-sum)
   - [x] [cartesian-product](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/sets/cartesian-product)
+  - [x] [longest-common-subsequence](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/sets/longest-common-subsequence)
 
 </details>
 
