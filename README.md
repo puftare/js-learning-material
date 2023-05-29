@@ -417,6 +417,7 @@ Embodied within this repository, one shall discover a myriad of algorithmic triu
   - [x] [cartesian-product](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/sets/cartesian-product)
   - [x] [longest-common-subsequence](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/sets/longest-common-subsequence)
   - [x] [shortest-common-supersequence](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/sets/shortest-common-supersequence)
+  - [x] [longest-increasing-subsequence](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/sets/longest-increasing-subsequence)
 
 </details>
 
