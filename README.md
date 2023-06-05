@@ -423,7 +423,7 @@ Embodied within this repository, one shall discover a myriad of algorithmic triu
 
 - [x] [`[OTHER]`](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/other)
 
-  - [x] [power-set](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/other/hanoi-tower)
+  - [x] [hanoi-tower](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/other/hanoi-tower)
 
 </details>
 
