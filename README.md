@@ -421,7 +421,9 @@ Embodied within this repository, one shall discover a myriad of algorithmic triu
   - [x] [maximum-subarray](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/sets/maximum-subarray)
   - [x] [power-set](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/sets/power-set)
 
-to add: Hanoi Tower link
+- [x] [`[OTHER]`](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/other)
+
+  - [x] [power-set](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/other/hanoi-tower)
 
 </details>
 
