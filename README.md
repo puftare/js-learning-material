@@ -424,6 +424,7 @@ Embodied within this repository, one shall discover a myriad of algorithmic triu
 - [x] [`[OTHER]`](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/other)
 
   - [x] [hanoi-tower](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/other/hanoi-tower)
+  - [x] [jump-game](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/other/jump-game)
 
 </details>
 
