@@ -429,6 +429,7 @@ Embodied within this repository, one shall discover a myriad of algorithmic triu
   - [x] [square-matrix-rotation](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/other/square-matrix-rotation)
   - [x] [knight-tour](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/other/knight-tour)
   - [x] [rain-terraces](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/other/rain-terraces)
+  - [x] [recursive-staircase](https://github.com/puftare/js-learning-material/tree/master/algorithms-and-data-structures/src/algorithms/other/recursive-staircase)
 
 </details>
 
