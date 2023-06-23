@@ -477,6 +477,7 @@ Embodied within this repository, one shall discover a myriad of algorithmic triu
   - [x] [js-questions](https://github.com/puftare/js-learning-material/tree/master/fun-with-js/js/questions.js)
   - [x] [keyboardWarrior](https://github.com/puftare/js-learning-material/tree/master/fun-with-js/js/keyboardWarrior)
   - [x] [tictactoe](https://github.com/puftare/js-learning-material/tree/master/fun-with-js/js/tictactoe)
+  - [x] [pagination](https://github.com/puftare/js-learning-material/tree/master/fun-with-js/js/pagination)
 
 </details>
 
